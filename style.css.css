@@ -1,0 +1,78 @@
+.met {
+    text-align: center;
+    font-style: oblique; 
+    background-color: bisque;
+    border: solid;
+
+
+    
+    }
+
+.nav {
+    text-align: left;
+    background-color: coral;
+    border:thin;
+    width: 100%;
+}
+
+.images {
+    float: left;
+    width: 100%;
+    display: flex;
+    padding: 7% 5% 7% 5%;
+    justify-content: center;
+}
+
+.image-content {
+    width: 20%;
+    margin: 4px;
+    background-color: bisque;
+    text-align: center;
+    padding: 2%;
+}
+
+.image-container {
+    width: 100px;
+    padding: 6px;
+    height: 100px;
+}
+
+.image-container img {
+    width: 100%;
+    border-radius: 50%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.bev {
+    text-align: left;
+    width: 100%;
+    background-color: bisque;
+    ;
+
+    }
+.tel{
+
+    text-align: left;
+    background-color: coral;
+
+}
+.bel{
+
+  width: 100%;
+  background-color: bisque;
+
+}
+.wel{
+
+    width:100%;
+    background-color: bisque;
+
+}
+.hel{
+
+width: 100%;
+background-color: coral;
+
+}
